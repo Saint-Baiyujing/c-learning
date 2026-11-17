@@ -1,0 +1,12 @@
+# 编译产物
+*.exe
+*.o
+*.obj
+*.out
+*.pdb
+
+# 本地配置与临时文件
+.vscode/
+.env
+.env.*
+*.log
